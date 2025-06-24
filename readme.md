@@ -49,7 +49,7 @@ Repositori ini berisi program implementasi makalah IF2211 Strategi Algoritma den
 
 ```bash
 git clone https://github.com/AlfianHanifFY/Pencatatan_Keuangan.git
-cd pencatatan_keuangan
+cd Pencatatan_Keuangan
 ```
 
 ### 2. Buat virtual environment
@@ -84,7 +84,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 📦 Daftar Dependensi (requirements.txt)
+## Daftar Dependensi (requirements.txt)
 
 ```
 pytesseract
