@@ -48,8 +48,8 @@ Repositori ini berisi program implementasi makalah IF2211 Strategi Algoritma den
 ### 1. Clone repositori ini
 
 ```bash
-git clone https://github.com/nama-user/proyek-transaksi.git
-cd proyek-transaksi
+git clone https://github.com/AlfianHanifFY/Pencatatan_Keuangan.git
+cd pencatatan_keuangan
 ```
 
 ### 2. Buat virtual environment
