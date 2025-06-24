@@ -96,12 +96,10 @@ PyMuPDF
 
 Letakkan file bukti transaksi dalam bentuk **PDF** atau **Gambar (.jpg/.png)** di dalam folder `data/`.
 
-## Makalah
-
-Judul: _Penerapan Algoritma String Matching dan Regular Expression pada Bukti Transaksi Digital untuk Otomatisasi Pencatatan Keuangan_
+## Kontributor
 
 | Nama   | NIM      | Email                                                               | Tahun |
 | ------ | -------- | ------------------------------------------------------------------- | ----- |
 | Alfian | 13523073 | [13523073@mahasiswa.itb.ac.id](mailto:13523073@mahasiswa.itb.ac.id) | 2025  |
 
-# Pencatatan_Keuangan
+
