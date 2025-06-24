@@ -7,7 +7,7 @@
   <img src="doc/app.png" alt="Demo"  />
 </p>
 
-Proyek ini merupakan bagian dari makalah ilmiah yang membahas tentang penerapan algoritma string matching dan regular expression untuk mengekstraksi informasi dari bukti transaksi digital, seperti file PDF dan gambar, guna mendukung otomatisasi pencatatan keuangan pribadi.
+Repositori ini berisi program implementasi makalah IF2211 Strategi Algoritma dengan judul Penerapan Algoritma String Matching dan Regular Expression pada Bukti Transaksi Digital untuk Otomatisasi Pencatatan Keuangan oleh Alfian Hanif Fitria Yustanto
 
 ## Fitur
 
@@ -103,4 +103,5 @@ Judul: _Penerapan Algoritma String Matching dan Regular Expression pada Bukti Tr
 | Nama   | NIM      | Email                                                               | Tahun |
 | ------ | -------- | ------------------------------------------------------------------- | ----- |
 | Alfian | 13523073 | [13523073@mahasiswa.itb.ac.id](mailto:13523073@mahasiswa.itb.ac.id) | 2025  |
+
 # Pencatatan_Keuangan
